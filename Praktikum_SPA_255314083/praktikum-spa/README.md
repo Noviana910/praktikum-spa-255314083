@@ -1,7 +1,5 @@
 # Praktikum Effect Custom Hook dan Router
 
-Proyek pendamping modul Word. Jalankan dari folder ini, bukan dari folder paket paling luar.
-
 ## Persiapan
 
 1. Instal Node.js 22 versi 22.12 atau lebih baru (atau Node.js 24).
