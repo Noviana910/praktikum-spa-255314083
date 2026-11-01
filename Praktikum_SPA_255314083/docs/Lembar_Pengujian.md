@@ -3,7 +3,7 @@
 Nama / NPM: Fransisca Noviana Prina Ramiro Soares / 255314083
 
 | No | Langkah uji | Hasil yang diharapkan |
-|---|---|---|---|---|---|
+|---|---|---|
 | 1 | Tambah Buku React dari katalog | Badge 1 dan tombol Hapus favorit | 
 | 2 | Buka detail 1 dan halaman favorit | Produk tetap ditandai dan muncul | 
 | 3 | Hapus produk dari halaman favorit | Kartu hilang dan badge 0 | 
