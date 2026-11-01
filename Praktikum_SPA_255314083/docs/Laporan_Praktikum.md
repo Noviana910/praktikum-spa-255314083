@@ -25,7 +25,7 @@ Membangun aplikasi React SPA berisi beranda, katalog, detail produk, favorit, da
 4. **Route dinamis dan pencarian**: route `/products/:id` dibaca dengan `useParams` (hasilnya string, maka dibandingkan dengan `String(item.id)`). Pencarian dan kategori dibaca dari URL dengan `useSearchParams` dan diubah dengan `setParams`, sehingga tombol Back dan Forward memulihkan pencarian.
 
 ## Eksperimen
-(Isi dari hasil percobaanmu sendiri.)
+
 - StrictMode: tambahkan sementara `console.log` pada setup dan cleanup `usePageTitle`, lalu catat urutan log saat pindah halaman.
 - Dependency `[ids]` menjadi `[]`: tambah favorit lalu reload, catat hasilnya, lalu kembalikan ke `[ids]`.
 
